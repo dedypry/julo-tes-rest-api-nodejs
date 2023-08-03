@@ -1,16 +1,16 @@
-###Git Clone
+### Git Clone
 ```json
 https://github.com/dedypry/julo-test-backend-enginer-nodejs.git
 ```
 
-###DOCUMENTATION POSMANT
+### DOCUMENTATION POSMANT
 [Postman Documentation](https://documenter.getpostman.com/view/9682865/2s9XxwwtwX)
 
 ```json
 https://documenter.getpostman.com/view/9682865/2s9XxwwtwX
 ```
 
-###NPM Install
+### NPM Install
 
 After cloning the repository, navigate into the project directory and run npm install to install the dependencies listed in the package.json file:
 
@@ -23,7 +23,7 @@ npm install
 ```
 This will install all the required Node.js packages and their dependencies.
 
-###Knex Migrate
+### Knex Migrate
 To run database migrations using Knex, you can use the following command:
 ```bash
 npx knex migrate:latest
@@ -31,7 +31,7 @@ npx knex migrate:latest
 This command will execute all the pending migrations, updating the database schema to the latest version.
 
 
-###Knex Seed
+### Knex Seed
 To seed the database with data using Knex, use the following command:
 ```bash
 npx knex seed:run
