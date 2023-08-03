@@ -2,6 +2,12 @@
 ```json
 https://github.com/dedypry/julo-test-backend-enginer-nodejs.git
 ```
+###DOCUMENTATION POSMANT
+[Postman Documentation](https://documenter.getpostman.com/view/9682865/2s9XxwwtwX)
+
+```json
+https://documenter.getpostman.com/view/9682865/2s9XxwwtwX
+```
 
 ###NPM Install
 
